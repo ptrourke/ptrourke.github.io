@@ -1,2 +1,0 @@
-# ptrourke.name
-Personal website
