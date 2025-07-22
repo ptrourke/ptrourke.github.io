@@ -26,7 +26,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
   # The markdown source code and publication script for my personal websites.
 url: "https://ptrourke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
   # twitter_username: ptrourke
-github_username:  p`trourke
+github_username:  ptrourke
+linkedin_username: ptrourke
+mastodon:
+  - username: ptrourke
+    instance: code4lib.social
 
 # Build settings
 theme: minima
