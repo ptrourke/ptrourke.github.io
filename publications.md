@@ -25,8 +25,8 @@ Elizabeth Vandiver, "The Suda On Line (www.stoa.org/sol),"
 * "Pasiphaë's Defense," translation in verse of Euripides, _The Cretans_, 
 fr. 472e Kannicht (= fr. 11 Page = fr. 82 Austin, 
 from Perg. Berol. 13217, lost), _Diotima Anthology_ (1998), 
-[http://www.stoa.org/diotima/anthology/rourke.shtml](http://www.stoa.org/diotima/anthology/rourke.shtml), 
-[Web archive](https://web.archive.org/web/19990127175316/http://www.uky.edu/ArtsSciences/Classics/rourke.html)
+[https://diotima-doctafemina.org/translations/greek/euripides-kretes-fr-472e-k/](https://diotima-doctafemina.org/translations/greek/euripides-kretes-fr-472e-k/), 
+[Web archive: https://www.stoa.org/diotima/anthology/rourke.shtml](https://web.archive.org/web/19990127175316/http://www.uky.edu/ArtsSciences/Classics/rourke.html)
 
 * "Timelessness and Timeliness: Anachronism in the Performance of Greek Tragedy" 
 (A Review of Francis Rochaix’s production of _Agamemnon_, American Repertory 
