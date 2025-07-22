@@ -1,3 +1,7 @@
+---
+permalink: /translations/khrysippos.html
+title: Khrysippos
+---
 # Khrysippos
 
 ## Fragments from a Lost Tragedy of Euripides
