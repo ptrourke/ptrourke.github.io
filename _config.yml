@@ -25,6 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
   # The markdown source code and publication script for my personal websites.
 url: "https://ptrourke.name" # the base hostname & protocol for your site, e.g. http://example.com
+collections:
+  translations:
+    output: true
+    permalink: "/translations/:name"
+
+
   # twitter_username: ptrourke
 github_username:  ptrourke
 linkedin_username: ptrourke

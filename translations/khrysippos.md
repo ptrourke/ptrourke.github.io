@@ -1,5 +1,4 @@
 ---
-permalink: /translations/khrysippos.html
 title: Khrysippos
 ---
 # Khrysippos
