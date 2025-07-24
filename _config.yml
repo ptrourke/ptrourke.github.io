@@ -32,7 +32,6 @@ mastodon:
   - username: ptrourke
     instance: code4lib.social
 
-
 # Build settings
 theme: minima
 plugins:
